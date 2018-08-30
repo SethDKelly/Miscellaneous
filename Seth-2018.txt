@@ -1,0 +1,55 @@
+Purpose: Short term accomplishments to achieve end goals
+-----
+
+Ten year Goals: (2028)
+-----
+1. Live for over a year in at least 2 different countries
+    * Germany/Austria
+    * Japan/Korea
+2. Pilots license
+3. Speak fluently a language (non-programming)
+    * German
+    * Japanese
+4. Mature Career
+    * 115k+
+---
+*Rolling-Term Ten(2018-2028)*
+    * *This will be used as a rolling window for Ten year goals under progress*
+---
+Five Year Goals: (2018-2023)
+-----
+1. Join the 1000 club in weight lifting
+2. Working in long-term career
+    * 75k+
+3. Complete bachelors program
+    * Bachelors in Comp. Sci., Statistics, Mathematics
+4. Speak a second language 12 year old level
+    * German
+    * Japanese
+---
+*Rolling-Term Five (2018-2023)*
+    * *This will be used as a rolling window for Five year goals under progress*
+---
+One Year Term: (2018)
+-----
+Active:
+1. Education:
+    * Complete Springboard Data Science course
+2. Health:
+    * Maintain workout plan of 3-4 days a week
+        * 325 Squat
+        * 215 Bench
+        * 350 Deadlift
+3. Misc.
+    * Finish 6 books in 2018
+	
+4. Career/Financial:
+    * Begin working in a Data Science position
+        * 40k+
+    * At conferences begin to actively network
+        * Bus. cards? - Measurability?
+5. Lifestyle
+    * Set a sleep by time
+        * 3:00amOr within 15min of return
+        * Log sleep/wake
+    * 30 minutes before bed no screen activity - read/prepare for coming day
